@@ -1,4 +1,4 @@
-name: aadarsh
+name: Aadarsh
 description: A daily life learning app
 publish_to: "none"
 
@@ -13,6 +13,15 @@ dependencies:
   flutter_tts: ^3.8.3
   audioplayers: ^5.2.1
   confetti: ^0.7.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#121212"
+  adaptive_icon_foreground: "assets/icon.png"
 
 dev_dependencies:
   flutter_test:
@@ -23,6 +32,8 @@ flutter:
   assets:
     - assets/notes/
     - assets/money/
+    - assets/notes/front/
+    - assets/notes/back/
     - assets/products/
     - assets/shop/
 

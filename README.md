@@ -1,16 +1,7 @@
-# aadarsh
+# Saksham: Learning with Confidence
 
-A new Flutter project.
+Saksham is an educational app designed to empower individuals with Dyscalculia and learning difficulties to master essential life skills.
 
-## Getting Started
+I built this app specifically for my brother, to help him navigate the world of numbers without fear. Unlike standard learning apps, **Saksham focuses on real-world independence**—teaching users how to count, recognize Nepali & Indian currency *(currently Nepali currency is available, Indian currency coming soon)*, and manage grocery shopping in a fun, pressure-free environment.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With full voice support in English, Hindi, and Nepali, Saksham ensures that language is never a barrier to learning. It’s not just a game; it’s a tool for confidence.
